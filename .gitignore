@@ -1,0 +1,23 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Webots generated files
+worlds/.*.wbproj
+worlds/.*.jpg
+
+# Temporary logs and local scratch files
+*.log
+*.tmp
+
+# Large RL training artefacts that are intentionally excluded
+rl/run*/
+run*_qtable.npy

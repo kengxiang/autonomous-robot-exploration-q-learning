@@ -1,0 +1,4 @@
+condition,trials,duration_seconds,mean_coverage_percent,stddev_coverage_percent,mean_collision_count,stddev_collision_count
+Baseline - World 1,8,300,26.625,0.846,8.75,0.463
+Q-Learning - World 1,8,300,60.438,8.643,16,0.0
+Q-Learning - World 2,8,300,36.812,13.223,14.5,4.243
